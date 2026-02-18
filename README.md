@@ -2,9 +2,8 @@
 
 <p align="center">
 🎓 Bacharel em Engenharia de Software <br>
-💻 Desenvolvedor Fullstack em formação <br>
+💻 Desenvolvedor Fullstack <br>
 🚀 Focado em React, Next.js, TypeScript e Supabase <br>
-🔥 Buscando minha primeira oportunidade na área
 </p>
 
 ---
@@ -79,7 +78,7 @@ Estou em constante evolução e busco minha primeira oportunidade para aplicar m
 ## 📫 Contato
 
 <p>
-  <a href="https://linkedin.com/in/SEULINKEDIN">
+  <a href="https://www.linkedin.com/in/kaua-heidemann-santos/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
@@ -87,5 +86,5 @@ Estou em constante evolução e busco minha primeira oportunidade para aplicar m
 ---
 
 <p align="center">
-🔥 Sempre aprendendo. Sempre evoluindo.
+Sempre aprendendo. Sempre evoluindo.
 </p>
