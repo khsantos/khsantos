@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Kauã Heidemann Santos</h1>
+<h1 align="center">Olá, eu sou o Kauã Heidemann Santos</h1>
 
 <p align="center">
 Bacharel em Engenharia de Software <br>
@@ -44,15 +44,31 @@ Focado em React, Next.js, TypeScript e Supabase <br>
 
 ---
 
+## Hard Skills
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Autenticação-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Integração_de_APIs-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRUD_Operations-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arquitetura_Fullstack-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Testes_Unitários-B22222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web_Scraping-556B2F?style=for-the-badge"/>
+</p>
+
+---
+
 ## Soft Skills
 
-- Comunicação clara e objetiva  
-- Trabalho em equipe  
-- Organização e disciplina  
-- Pensamento analítico  
-- Resolução de problemas  
-- Proatividade  
-- Aprendizado rápido  
+<p>
+  <img src="https://img.shields.io/badge/Comunicação-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-20B2AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Organização-DAA520?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pensamento_Analítico-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Resolução_de_Problemas-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Proatividade-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Aprendizado_Rápido-4682B4?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -66,15 +82,14 @@ Estou em constante evolução e busco minha primeira oportunidade para aplicar m
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khsantos&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khsantos&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-ruddy-zeta-63.vercel.app/api?username=khsantos&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p>
   <a href="https://www.linkedin.com/in/kaua-heidemann-santos/">
