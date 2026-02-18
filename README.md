@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá, eu sou o Kauã Heidemann Santos</h1>
 
 <p align="center">
-🎓 Bacharel em Engenharia de Software <br>
-💻 Desenvolvedor Fullstack <br>
-🚀 Focado em React, Next.js, TypeScript e Supabase <br>
+Bacharel em Engenharia de Software <br>
+Desenvolvedor Fullstack <br>
+Focado em React, Next.js, TypeScript e Supabase <br>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 💻 Frontend
 <p>
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧠 Soft Skills
+## Soft Skills
 
 - Comunicação clara e objetiva  
 - Trabalho em equipe  
@@ -56,7 +56,7 @@
 
 ---
 
-## 📌 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor focado em construir aplicações modernas e funcionais, unindo frontend e backend para criar soluções completas.
 
