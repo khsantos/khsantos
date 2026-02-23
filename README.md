@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kauã Heidemann Santos</h1>
 
 <p align="center">
-Bacharel em Engenharia de Software <br>
+Formação em Engenharia de Software <br>
 Desenvolvedor Fullstack <br>
 Focado em React, Next.js, TypeScript e Supabase <br>
 </p>
