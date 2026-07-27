@@ -97,8 +97,3 @@ Estou em constante evolução e busco minha primeira oportunidade para aplicar m
   </a>
 </p>
 
----
-
-<p align="center">
-Sempre aprendendo. Sempre evoluindo.
-</p>
